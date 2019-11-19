@@ -1,5 +1,9 @@
+= PHP Web Application Creator 
+=== by maste150hhu, build on Quadodo Login Script
 
-Here you can find the source code for the free PHP login script by Quadodo.
+== <1> Setup
 
-This is the latest stable version and will have all updates before the packages are released on SourceForge.
+<1.1> Clone the Repository into your Server and open `yourdomain/install/install.php`.
+
+<1.2>In the next step enter the information of your database. Those settings can be changed later via `yourdomain/admincp.php`.
 
