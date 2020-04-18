@@ -1,7 +1,7 @@
-= PHP Web Application Creator 
-=== by maste150hhu, build on Quadodo Login Script
+# PHP Web Application Creator 
+### by maste150hhu, build on Quadodo Login Script
 
-== <1> Setup
+# <1> Setup
 
 <1.1> Clone the Repository into your Server and open `yourdomain/install/install.php`.
 
